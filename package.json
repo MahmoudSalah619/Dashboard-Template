@@ -1,11 +1,7 @@
 {
-  "name": "Dashboard-Vite-Template",
+  "name": "dashboard-vite-template",
   "description": "This is a dashboard template built with React and Vite. It provides a modern and responsive user interface for building web applications.",
-  "author": {
-    "name": "mahmoud salah",
-    "email": "mahmoud.s.m619@gmail.com",
-    "phone": "+201005541537"
-  },
+  "author": "mahmoud salah <mahmoud.s.m619@gmail.com>",
   "keywords": [
     "react",
     "template",
@@ -14,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MahmoudSalah619/Dashboard-Template.git"
+    "url": "git+https://github.com/MahmoudSalah619/Dashboard-Template.git"
   },
   "license": "MIT",
   "private": true,
@@ -65,5 +61,10 @@
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.24.1",
     "vite": "^6.2.0"
-  }
+  },
+  "main": "eslint.config.js",
+  "bugs": {
+    "url": "https://github.com/MahmoudSalah619/Dashboard-Template/issues"
+  },
+  "homepage": "https://github.com/MahmoudSalah619/Dashboard-Template#readme"
 }

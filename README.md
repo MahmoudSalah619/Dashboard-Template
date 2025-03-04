@@ -1,8 +1,17 @@
-# React/Vite Dashboard Template
+# Dashboard Vite Template
 
-## Description
-
-This is a dashboard template built with React and Vite. It provides a modern and responsive user interface for building web applications.
+This is a dashboard template built with React and Vite. It provides a modern and responsive user interface for building web applications. It includes:
+- Forms with all shapes
+- Sider
+- Navbar
+- Data tables
+- Filters
+- Graphs
+- Search
+- Uploads
+- Translation using i18n
+- Auth/main stacks
+- An overall ready-for-integration template with an atomic design system.
 
 ## Features
 

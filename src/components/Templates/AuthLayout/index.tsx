@@ -1,8 +1,8 @@
 import { Layout } from "antd";
 import { ReactNode } from "react";
 import styles from "./styles.module.scss";
-import Logo from "@/src/assets/images/Logo.png";
-import Image from "../../Atoms/Image";
+// import Logo from "@/src/assets/images/Logo.png";
+// import Image from "../../Atoms/Image";
 import Text from "../../Atoms/Text";
 
 function AuthLayout({
